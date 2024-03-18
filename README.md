@@ -10,6 +10,10 @@ A serializable class that holds basic information about an object, including an 
 ### `ObjectInteraction`: 
 Responsible for handling user interactions with objects in the scene. It uses a raycast from the camera to detect objects in front of the camera and updates the UI with the information of the object being looked at. It also manages the outline effect for the object currently under the camera's focus.
 
+***
+![image](https://github.com/Ddemon26/InteractObject/assets/95268795/e40ff609-b107-456c-a6b0-22b9bf38b3d9)
+***
+
 ## Object Display
 
 ### `ObjectInfo`: 
