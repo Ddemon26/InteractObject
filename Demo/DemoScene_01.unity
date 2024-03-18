@@ -525,7 +525,7 @@ MonoBehaviour:
   Up:
     Positive: 101
     Negative: 113
-  Boost: 3.5
+  Boost: 2
   PositionLerpTime: 0.2
   MouseSensitivityCurve:
     serializedVersion: 2
@@ -552,6 +552,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   RotationLerpTime: 0.01
+  KeepCursorLocked: 1
   InvertY: 0
 --- !u!1 &380912503
 GameObject:
