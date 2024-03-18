@@ -1,5 +1,9 @@
 # System Overview
 
+***
+![Display ObjectInfo](https://github.com/Ddemon26/InteractObject/assets/95268795/039b950c-23a5-47ab-a7c4-746158981070)
+***
+
 ## Object Data Management
 
 ### `ObjectData`: 
